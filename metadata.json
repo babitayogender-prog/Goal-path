@@ -1,0 +1,6 @@
+{
+  "name": "GoalPath",
+  "description": "Plan. Focus. Achieve. Map out your dream college, career, and long-term roadmap with percentage-weighted goals and AI progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
